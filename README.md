@@ -21,7 +21,7 @@ Created an infographic using Canva to explain digital literacy, safe internet pr
 ---
 
 ### 🔹 Task 2 – Student Digital Portfolio
-Set up and updated professional profiles on platforms like GitHub and LinkedIn to build an online presence.
+Set up and updated professional profiles on platforms like GitHub,Kaggle and LinkedIn to build an online presence.
 
 ---
 
@@ -41,7 +41,7 @@ Prepared a case study on UPI fraud and created a prevention checklist to promote
 ---
 
 ## 🔗 Google Form Link
-[Paste your Google Form link here]
+https://docs.google.com/forms/d/e/1FAIpQLSevfIb3RIbxX3sc2BtDKKOiKRryDqXOoThS29kznpVN-_Mgow/viewform?usp=dialog
 
 ---
 
